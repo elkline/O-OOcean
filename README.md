@@ -6,4 +6,5 @@ September - November 2021  |  Java, IntelliJ
 
 <img width="491" alt="Screen Shot 2022-03-16 at 2 03 20 PM" src="https://user-images.githubusercontent.com/81598074/158690520-41e37625-ab72-4a57-860f-099e7abc8304.png">
 
-<img width="1440" alt="Screen Shot 2022-03-16 at 2 07 49 PM" src="https://user-images.githubusercontent.com/81598074/158691248-14b43e8f-8f9e-498c-b406-9cca4c77ca32.png">
+
+<img width="551" alt="Screen Shot 2022-03-16 at 2 09 25 PM" src="https://user-images.githubusercontent.com/81598074/158691460-10bac0df-945c-49ca-aa5f-9218441afc74.png">
